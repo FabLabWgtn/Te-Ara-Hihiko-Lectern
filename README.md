@@ -1,2 +1,2 @@
 # Te-Ara-Hihiko-Lectern
-A project for the new CoCA building on Campus
+The Fab Lab Wgtn team designed and made a new lectern for Te Ara Hihiko, the College of Creative Arts newest building. As well as giving comfort and strength to the speaker, the lectern needed to fit the aesthetic of the new building and be portable.The Fab Lab team were Wendy Neale, Tom Rutledge, Craig Hobern with help from Stuart Foster, Uli Thie, Josh Hall and Charlie Vaughan.
